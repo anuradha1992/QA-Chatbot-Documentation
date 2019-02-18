@@ -1,5 +1,6 @@
 ## Online web-scraping tools
 
+- Web Scraper : https://www.webscraper.io
 - grepsr : https://www.grepsr.com
 - Data Miner : https://data-miner.io
 - Apify : https://my.apify.com
@@ -17,3 +18,7 @@ https://schoolofdata.org/handbook/recipes/cleaning-data-scraped-from-the-web
 - Converting numbers to number types:
 - Converting Boolean values: ‘Yes’ -> True
 - Converting dates to machine-readable formats: “24 June 2004” -> “2004-06-24”
+
+https://towardsdatascience.com/data-cleaning-web-scraped-job-data-6c2a2d963cd
+
+- Removing special characters
