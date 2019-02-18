@@ -7,3 +7,7 @@
 ### grepsr features
 
 - https://www.grepsr.com/two-cool-features-you-may-have-missed-in-grepsr-for-chrome-1adbc28e96fb
+
+## Cleaning up web scraped data
+
+- https://schoolofdata.org/handbook/recipes/cleaning-data-scraped-from-the-web
