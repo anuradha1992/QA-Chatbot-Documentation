@@ -1,6 +1,6 @@
 ## Online web-scraping tools
 
-- Web Scraper : https://www.webscraper.io
+- Web Scraper : https://www.webscraper.io, https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
 - grepsr : https://www.grepsr.com
 - Data Miner : https://data-miner.io
 - Apify : https://my.apify.com
