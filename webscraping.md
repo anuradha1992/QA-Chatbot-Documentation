@@ -10,4 +10,10 @@
 
 ## Cleaning up web scraped data
 
-- https://schoolofdata.org/handbook/recipes/cleaning-data-scraped-from-the-web
+https://schoolofdata.org/handbook/recipes/cleaning-data-scraped-from-the-web
+
+- Cleaning HTML
+- Strip whitespace
+- Converting numbers to number types:
+- Converting Boolean values: ‘Yes’ -> True
+- Converting dates to machine-readable formats: “24 June 2004” -> “2004-06-24”
