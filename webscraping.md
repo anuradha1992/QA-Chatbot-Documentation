@@ -22,3 +22,8 @@ https://schoolofdata.org/handbook/recipes/cleaning-data-scraped-from-the-web
 https://towardsdatascience.com/data-cleaning-web-scraped-job-data-6c2a2d963cd
 
 - Removing special characters
+
+## Q&A Datasets
+
+- https://lhncbc.nlm.nih.gov/project/consumer-health-question-answering
+- https://www.icliniq.com/qa
