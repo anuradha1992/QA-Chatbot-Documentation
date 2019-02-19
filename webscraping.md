@@ -27,3 +27,12 @@ https://towardsdatascience.com/data-cleaning-web-scraped-job-data-6c2a2d963cd
 
 - https://lhncbc.nlm.nih.gov/project/consumer-health-question-answering
 - https://www.icliniq.com/qa
+
+## Relevant Links
+
+- https://my.clevelandclinic.org/health/multimedia/questions
+- http://www.irishhealth.com/askdoc.html?qasect=9
+- https://www.zocdoc.com/answers/3452/are-ocd-and-drug-addiction-related
+
+- https://www.webmd.com/depression/qa/how-long-are-people-hospitalized-for-depression
+- https://www.webmd.com/depression/qa/what-chronic-illnesses-are-often-linked-with-depression
