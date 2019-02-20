@@ -36,3 +36,9 @@ https://towardsdatascience.com/data-cleaning-web-scraped-job-data-6c2a2d963cd
 
 - https://www.webmd.com/depression/qa/how-long-are-people-hospitalized-for-depression
 - https://www.webmd.com/depression/qa/what-chronic-illnesses-are-often-linked-with-depression
+
+## Export sitemap
+
+```
+{"_id":"webmd-common","startUrl":["https://www.webmd.com/a-to-z-guides/common-topics"],"selectors":[{"id":"Topic","type":"SelectorLink","parentSelectors":["_root"],"selector":"ul.az-index-results-group-list a","multiple":true,"delay":0},{"id":"Category","type":"SelectorLink","parentSelectors":["Topic"],"selector":"div.module.module-lln-ctrcnav li a","multiple":true,"delay":0},{"id":"Article","type":"SelectorLink","parentSelectors":["Category","Category-Pagination"],"selector":"div.dynamic-index ul:nth-of-type(1) a","multiple":true,"delay":0},{"id":"Article-Title","type":"SelectorText","parentSelectors":["Article"],"selector":"h1","multiple":false,"regex":"","delay":0},{"id":"Article-Content","type":"SelectorText","parentSelectors":["Article","Article-Pagination"],"selector":"div.article-page.active-page","multiple":false,"regex":"","delay":0},{"id":"Article-Pagination","type":"SelectorLink","parentSelectors":["Article","Article-Pagination"],"selector":"li.page:nth-of-type(n+2) a","multiple":true,"delay":0},{"id":"Category-Pagination","type":"SelectorLink","parentSelectors":["Category","Category-Pagination"],"selector":"li.next a","multiple":false,"delay":0}]}
+```
